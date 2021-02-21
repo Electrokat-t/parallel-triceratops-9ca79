@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: hi
+subtitle: hi!
 img_path: images/about.jpg
 template: page
 ---
